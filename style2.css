@@ -1,0 +1,39 @@
+.container{
+    height:50px;
+    width: 50px;
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 10px;
+    background-color: greenyellow;
+}
+/* #hide_container2{
+    visibility: hidden;
+} */
+/* #hide_container2{
+    display:none;
+} */
+
+body{
+    background-image: url(./beach.jpg);
+    background-repeat:no-repeat;
+    /* background-size:100% 100%; */
+    /* background-size:cover; */
+    /* background-size:contain; */
+    /* background-size:auto; */
+    /* background-position:right top; */
+    background-color: beige;
+    background-color:bisque;
+    background-position-x: center;
+}
+/* whatismyscreenresolution.net */
+/* walpaper.com */
+/*     background-position
+ left top
+left center
+left bottom
+right top
+right center
+right bottom
+center top
+center center
+center bottom */
